@@ -3,6 +3,7 @@ import './style.css';
 import logoImage from '../../assets/logo.svg'
 import padlock from '../../assets/padlock.png'
 
+// Componente React
 export default function Login(){
     // Este é um componente do React
     // Se for só uma linha o conteúdo do return  não precisa de "()".
